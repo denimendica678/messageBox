@@ -1,0 +1,10 @@
+C:\Users\denim\source\repos\messageBox\messageBox\bin\Debug\messageBox.exe.config
+C:\Users\denim\source\repos\messageBox\messageBox\bin\Debug\messageBox.exe
+C:\Users\denim\source\repos\messageBox\messageBox\bin\Debug\messageBox.pdb
+C:\Users\denim\source\repos\messageBox\messageBox\obj\Debug\messageBox.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\messageBox\messageBox\obj\Debug\messageBox.Form1.resources
+C:\Users\denim\source\repos\messageBox\messageBox\obj\Debug\messageBox.Properties.Resources.resources
+C:\Users\denim\source\repos\messageBox\messageBox\obj\Debug\messageBox.csproj.GenerateResource.cache
+C:\Users\denim\source\repos\messageBox\messageBox\obj\Debug\messageBox.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\messageBox\messageBox\obj\Debug\messageBox.exe
+C:\Users\denim\source\repos\messageBox\messageBox\obj\Debug\messageBox.pdb
